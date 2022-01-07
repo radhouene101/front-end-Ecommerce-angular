@@ -1,0 +1,16 @@
+
+.bg-grey{
+  background-color: #d3d3d3;
+}
+.bg-theme{
+  color:#C69595;
+  background-color: #C69595;
+}
+a.bg-theme:focus,a.bg-theme:hover {
+  color:#C69595;
+  background-color: #C69595;
+}
+a:hover {
+  background-color: indianred;
+}
+
